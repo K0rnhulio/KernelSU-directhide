@@ -1,0 +1,5 @@
+id=ksu_hideproc
+name=Hide Process Module
+version=1.0
+author=Kachi
+description=KernelSU module to hide processes by package name using user-space script
